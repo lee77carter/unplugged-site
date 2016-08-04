@@ -177,6 +177,11 @@ header {
 	max-width: 312px;
 }
 
+#figure concert-img {
+ width: 20%;
+ height: auto;
+}
+
 nav {
 	width: 100%;
 }
