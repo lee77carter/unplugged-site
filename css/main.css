@@ -203,6 +203,16 @@ nav {
 		padding-right:10px;
 	}
 
+	.fa-music:before {
+    content: "\f001";
+    padding: 10px;
+}
+
+.fa-question:before {
+    content: "\f128";
+    padding: 10px;
+}
+
 /* Main Content =========================== */
 #main-content {
 	clear:both;
